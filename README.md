@@ -1,0 +1,2 @@
+# segi
+kiszűrt tanyanyag
