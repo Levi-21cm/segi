@@ -1,0 +1,8 @@
+div.bevitel {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 80%;
+    transform: translate(-50%, -50%);
+  }
